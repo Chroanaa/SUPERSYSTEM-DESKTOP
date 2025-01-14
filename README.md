@@ -11,6 +11,6 @@ The primary agenda and possible contents here would be following:
 
 ## Languages
 
-C# / Avalonia (UI Library)
+Visual Basic
 
 Written by Kenneth O. (@lash0000)
