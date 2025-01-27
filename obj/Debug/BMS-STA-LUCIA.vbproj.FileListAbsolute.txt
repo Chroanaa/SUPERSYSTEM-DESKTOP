@@ -10,3 +10,5 @@ C:\Users\lash\Source\Repos\lash0000\SUPERSYSTEM-DESKTOP\bin\Debug\BMS-STA-LUCIA.
 C:\Users\lash\Source\Repos\lash0000\SUPERSYSTEM-DESKTOP\obj\Debug\BMS-STA-LUCIA.exe
 C:\Users\lash\Source\Repos\lash0000\SUPERSYSTEM-DESKTOP\obj\Debug\BMS-STA-LUCIA.xml
 C:\Users\lash\Source\Repos\lash0000\SUPERSYSTEM-DESKTOP\obj\Debug\BMS-STA-LUCIA.pdb
+C:\Users\lash\Source\Repos\lash0000\SUPERSYSTEM-DESKTOP\obj\Debug\BMS_STA_LUCIA.Home.resources
+C:\Users\lash\Source\Repos\lash0000\SUPERSYSTEM-DESKTOP\obj\Debug\BMS_STA_LUCIA.OnboardClerical.resources

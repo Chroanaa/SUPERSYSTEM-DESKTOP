@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|c:\\users\\lash\\source\\repos\\lash0000\\supersystem-desktop\\app.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\app.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|solutionrelative:app.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|c:\\users\\lash\\source\\repos\\lash0000\\supersystem-desktop\\app.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\pages\\clerical_admin1\\onboardclerical.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|solutionrelative:pages\\clerical_admin1\\onboardclerical.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|c:\\users\\lash\\source\\repos\\lash0000\\supersystem-desktop\\pages\\blotter_bpso_badac_bcpc_vawc\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|solutionrelative:pages\\blotter_bpso_badac_bcpc_vawc\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\app.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|solutionrelative:app.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|c:\\users\\lash\\source\\repos\\lash0000\\supersystem-desktop\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|c:\\users\\lash\\source\\repos\\lash0000\\supersystem-desktop\\pages\\blotter_bpso_badac_bcpc_vawc\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73E68AFE-6A10-4513-B4DC-79C727921103}|BMS-STA-LUCIA.vbproj|solutionrelative:pages\\blotter_bpso_badac_bcpc_vawc\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 480,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +42,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Application.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\My Project\\Application.Designer.vb",
-              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
-              "ToolTip": "C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\My Project\\Application.Designer.vb",
-              "RelativeToolTip": "My Project\\Application.Designer.vb",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswCQAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Home.vb",
+              "DocumentMoniker": "C:\\Users\\lash\\Source\\Repos\\lash0000\\SUPERSYSTEM-DESKTOP\\Pages\\Blotter_BPSO_BADAC_BCPC_VAWC\\Home.vb",
+              "RelativeDocumentMoniker": "Pages\\Blotter_BPSO_BADAC_BCPC_VAWC\\Home.vb",
+              "ToolTip": "C:\\Users\\lash\\Source\\Repos\\lash0000\\SUPERSYSTEM-DESKTOP\\Pages\\Blotter_BPSO_BADAC_BCPC_VAWC\\Home.vb",
+              "RelativeToolTip": "Pages\\Blotter_BPSO_BADAC_BCPC_VAWC\\Home.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-01-26T10:46:12.488Z",
+              "WhenOpened": "2025-01-26T14:03:32.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\lash\\Source\\Repos\\lash0000\\SUPERSYSTEM-DESKTOP\\Pages\\Blotter_BPSO_BADAC_BCPC_VAWC\\Home.vb",
+              "RelativeDocumentMoniker": "Pages\\Blotter_BPSO_BADAC_BCPC_VAWC\\Home.vb",
+              "ToolTip": "C:\\Users\\lash\\Source\\Repos\\lash0000\\SUPERSYSTEM-DESKTOP\\Pages\\Blotter_BPSO_BADAC_BCPC_VAWC\\Home.vb [Design]",
+              "RelativeToolTip": "Pages\\Blotter_BPSO_BADAC_BCPC_VAWC\\Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-26T13:02:57.484Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OnboardClerical.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\Pages\\Clerical_Admin1\\OnboardClerical.vb",
+              "RelativeDocumentMoniker": "Pages\\Clerical_Admin1\\OnboardClerical.vb",
+              "ToolTip": "C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\Pages\\Clerical_Admin1\\OnboardClerical.vb [Design]",
+              "RelativeToolTip": "Pages\\Clerical_Admin1\\OnboardClerical.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-26T13:03:50.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.vb",
               "DocumentMoniker": "C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\App.vb",
               "RelativeDocumentMoniker": "App.vb",
               "ToolTip": "C:\\Users\\lash\\source\\repos\\lash0000\\SUPERSYSTEM-DESKTOP\\App.vb",
               "RelativeToolTip": "App.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-01-26T10:26:37.022Z",
               "EditorCaption": ""
